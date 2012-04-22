@@ -1,0 +1,22 @@
+span.tweet {
+	display: inline-block;
+	padding: 5px 10px;
+	-moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -khtml-border-radius: 10px;
+    border-radius: 10px;
+    margin-bottom: 4px;
+    width: 95%;
+}
+
+span.tweet.odd {
+	background-color: #FDFCDC;
+}
+
+span.tweet.even {
+	background-color: #FCF6CF;
+}
+
+div.inputdiv {
+	margin-bottom: 10px;
+}
